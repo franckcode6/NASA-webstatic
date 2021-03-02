@@ -1,0 +1,80 @@
+/* CONTENU GENEREAL*/
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.button {
+  background-color: rgb(49, 57, 173);
+  color: white !important;
+  font-size: 15px;
+  padding: 10px 20px;
+  display: inline-block;
+}
+
+h1 {
+  font-family: "Syne Mono", monospace;
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-family: "Syne Mono", monospace;
+  font-size: 25px;
+  margin: 40px 0;
+  font-weight: 600;
+  color: rgb(49, 57, 173);
+}
+
+/*FIN CONTENU GENERAL*/
+
+/* DEBUT HEADER*/
+header {
+  background-image: url(../img/bg-earth.jpg);
+  background-size: cover;
+  background-position-y: 25%;
+  border-bottom: 10px solid rgb(49, 57, 173);
+}
+
+header nav img {
+  width: 80px;
+}
+
+header #title h1 {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+header #title {
+  margin: 100px 0 150px;
+}
+/*FIN HEADER*/
+
+/*DEBUT FOOTER*/
+footer {
+  background-color: black;
+  border-top: 10px solid rgb(49, 57, 173);
+  padding: 30px 0 50px;
+}
+
+footer img {
+  width: 80px;
+}
+/*FIN FOOTER*/
+
+/*CONTENU PRINCIPAL*/
+main #explorations {
+  background-image: url(../img/bg-stars.jpg);
+}
+
+main #explorations ul li p {
+  border: 1px solid white;
+}
+
+main #sponsors ul li {
+  margin: 40px;
+}
+/*FIN CONTENU PRINCIPAL*/
