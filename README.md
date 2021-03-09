@@ -1,2 +1,2 @@
-Evaluation de Webstatic (HTML/CSS), maquette par Audrey Hossepian (formatrice) https://audreyhossepian.fr/
+Evaluation de Webstatic (HTML/CSS), maquette réalisée par Audrey Hossepian (formatrice) https://audreyhossepian.fr/
  
